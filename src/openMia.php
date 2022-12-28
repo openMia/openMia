@@ -14,7 +14,7 @@ class openMia {
 
 
         echo $this->registerApps($this->rootDir);
-        $composer = new composer();
+//        $composer = new composer();
     }
 
     public function registerApps($rootDir) {
