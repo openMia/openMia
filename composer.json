@@ -11,7 +11,7 @@
   ],
   "require": {
     "ext-json": "*",
-    "openmia/openmia": "*"
+    "openmia/composer": "*"
   },
   "autoload": {
         "psr-4": {
